@@ -1,0 +1,8 @@
+.val_alert{
+    font-weight: bold;
+    color: red;
+}
+
+.bgImg{
+    background-image: url("../images/sampleProduct.jpg");
+}
